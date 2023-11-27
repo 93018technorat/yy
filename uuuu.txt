@@ -1,0 +1,19 @@
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 0[31m
+[32m[+] Output is saved here   :[31m [36moutput/https://98.71.213.39/.txt[31m
+
+[31m[!] Total execution time      : 41.85s[0m

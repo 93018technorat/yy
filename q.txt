@@ -1,0 +1,79 @@
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+https://dashboard.razorpay.com/signup?r=FUZZ
+https://dashboard.razorpay.com/fonts/fontawesome-webfont.eot?v=FUZZ
+https://dashboard.razorpay.com//signup?referral_code=FUZZ
+https://dashboard.razorpay.com/?next=FUZZ
+https://dashboard.razorpay.com/fonts/fontawesome-webfont.woff?v=FUZZ
+https://dashboard.razorpay.com/static/js/analytics.js?_=FUZZ
+https://dashboard.razorpay.com/signup?referral_code=FUZZ
+https://dashboard.razorpay.com/fonts/fontawesome-webfont.ttf?v=FUZZ
+https://dashboard.razorpay.com/app/paymentlinks/new?link_type=FUZZ
+https://dashboard.razorpay.com/css/fonts/fontawesome-webfont.eot?v=FUZZ
+https://dashboard.razorpay.com/signup?recommended_product=FUZZ
+https://dashboard.razorpay.com/fonts/fontawesome-webfont.svg?v=FUZZ
+https://dashboard.razorpay.com/signup?captcha=FUZZ
+https://dashboard.razorpay.com/signup?screen=FUZZ
+https://dashboard.razorpay.com/signup?utm_source=FUZZ
+https://dashboard.razorpay.com/css/fonts/fontawesome-webfont.ttf?v=FUZZ
+https://dashboard.razorpay.com/css/fonts/fontawesome-webfont.svg?v=FUZZ
+https://dashboard.razorpay.com/css/fonts/fontawesome-webfont.woff?v=FUZZ
+https://dashboard.razorpay.com/signup?session_token=FUZZ
+https://dashboard.razorpay.com/?session_token=FUZZ
+https://dashboard.razorpay.com/css/fonts/fontawesome-webfont.woff2?v=FUZZ
+https://dashboard.razorpay.com/signup?coupon_code=FUZZ
+https://dashboard.razorpay.com/signup?ref=FUZZ
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 23[31m
+[32m[+] Output is saved here   :[31m [36moutput/https://dashboard.razorpay.com/.txt[31m
+
+[31m[!] Total execution time      : 1.7463s[0m
+[36m
+
+         ___                               _    __       
+        / _ \___ ________ ___ _  ___ ___  (_)__/ /__ ____
+       / ___/ _ `/ __/ _ `/  ' \(_-</ _ \/ / _  / -_) __/
+      /_/   \_,_/_/  \_,_/_/_/_/___/ .__/_/\_,_/\__/_/   
+                                  /_/     [0m               
+                            
+                           [32m - coded with <3 by Devansh Batham[0m 
+    
+[32;1m
+https://api.razorpay.com/v1/checkout/rewards?key_id=FUZZ
+https://api.razorpay.com/v1/customers/status/+919175291880?key_id=FUZZ
+https://api.razorpay.com/v1/payments/pay_ESXHoe4jks9JLP/callback/eb70450a8498a260cd13052e00c6da83794453e1/rzp_live_84TXNXKxndmavL?vpc_3DSECI=FUZZ
+https://api.razorpay.com/v1/preferences?key_id=FUZZ
+https://api.razorpay.com/v1/preferences?currency[0]=FUZZ
+https://api.razorpay.com/v1/payments/pay_FImfDhRWo89FfK/callback/33bf15bff08a3e0d81373cc31c5dbc441b093f47/rzp_live_qekaGL0R9P0alx?vpc_3DSECI=FUZZ
+https://api.razorpay.com/v1/payments/pay_G8wLskcz96Jxxi/callback/5d0d80acc5b562e54c7f34442a77f4f85667e4af/rzp_live_lEzzYaxVBpGvCE?vpc_3DSECI=FUZZ
+https://api.razorpay.com/v1/checkout/public?canary=FUZZ
+https://api.razorpay.com/v1/customers/status/44444444444444?key_id=FUZZ
+https://api.razorpay.com/v1/customers/status/+3300000000?key_id=FUZZ
+https://api.razorpay.com/v1/customers/status/04952390395?key_id=FUZZ
+https://api.razorpay.com/v1/preferences?payment_link_id=FUZZ
+https://api.razorpay.com/v1/checkout/public/canary?canary=FUZZ
+https://api.razorpay.com/v1/personalisation?key_id=FUZZ
+https://api.razorpay.com/v1/payments/pay_FPpnbW1t5cQQRe/callback/e7df8a5d449237c69512acc44097cea95bada84c/rzp_live_qekaGL0R9P0alx?vpc_3DSECI=FUZZ
+https://api.razorpay.com/v1/payments/pay_EJMxUYRKwvU8Bu/redirect_callback?key_id=FUZZ
+https://api.razorpay.com/v1/payments/pay_HzfYiagLpu0qD2/callback/6ef7630cdd7cfe4fd7083c3a0a3d997793b2f438/rzp_live_zyRUD5exRM0CGk?vpc_3DSXID=FUZZ
+https://api.razorpay.com/v1/customers/status/41111111111?key_id=FUZZ
+https://api.razorpay.com/v1/checkout/onyx?data=FUZZ
+https://api.razorpay.com/v1/payments/pay_EJN4pbGQHOmEOR/redirect_callback?key_id=FUZZ
+[0m
+
+[32m[+] Total number of retries:  0[31m
+[32m[+] Total unique urls found : 20[31m
+[32m[+] Output is saved here   :[31m [36moutput/api.razorpay.com.txt[31m
+
+[31m[!] Total execution time      : 2.3072s[0m

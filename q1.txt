@@ -1,0 +1,2 @@
+https://api.razorpay.com/v1/preferences?payment_link_id=Gxss
+
